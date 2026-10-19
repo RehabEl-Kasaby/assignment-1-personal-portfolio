@@ -1,0 +1,212 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.cv {
+    background-color: #f1f4f8;
+    padding: 20px 100px 20px 100px;
+}
+
+.info {
+    background-color: #18487b;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+.span-different {
+    color: #95dcff;
+}
+
+button {
+    background-color: #2a5685;
+    border-style: solid;
+    border-width: 0.25px;
+    border-radius: 25px;
+    color: white;
+    border-color: #55789e;
+    padding: 12px;
+    margin: 0 5px 0 5px;
+
+}
+
+.btn {
+    margin: 20px;
+}
+
+.about-me {
+    padding: 5px;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #0b3d73;
+    margin: 20px 20px 15px 20px;
+}
+
+.my-photo {
+    margin: 0 0 0 15px;
+    width: 15%;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #7bc8ff;
+}
+
+.visit-my-link {
+    float: right;
+    width: 80%;
+    padding: 5px 0 15px 10px;
+}
+
+
+hr {
+    margin: 0 20px 15px 20px;
+    border-color: #dceeff;
+    
+}
+
+.about-me-info a {
+    background-color: #0b65ad;
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.my-skills {
+    padding: 5px;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 10px 10px 20px 15px;
+}
+.p-center{
+    margin-left: 50px;
+}
+
+.technologies {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #dbeafe;
+    margin: 0 0 15px 15px;
+    padding: 20px;
+    float: left;
+    width: 23%;
+    background-color: #fbfdff;
+}
+
+.technologies span {
+    color: #0b65ad;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.experience {
+    padding: 5px 5px 5px 5px;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.experience-info {
+    border-style: solid;
+    border-radius: 15px;
+    border-color: transparent;
+    border-width: 3px;
+    border-left-color: #0b65ad;
+    padding: 10px;
+    margin: 0 20px 20px 20px;
+    background-color: #f8fafc;
+}
+
+.company-info {
+    margin: 0 0 0 15px;
+    width: 100%;
+    padding: 2px;
+}
+
+.icon-logo {
+    width: 10%;
+    border-radius: 15px;
+    border-style: solid;
+    border-width:2px;
+    border-color: #dbeafe;
+    padding: 10px;
+    float: left;
+    margin: 10px 20px 0 0;
+}
+
+.span-blue {
+    color: #0b65ad;
+    font-weight: bold;
+}
+
+.contact-me {
+    padding: 5px;
+    background-color: #18487b;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+
+.contact-me h2 {
+    color: white;
+}
+
+.contact-me hr {
+    border: none;
+    border-top: 1px solid white;
+}
+
+.contact-me p {
+    color: white;
+    margin: 20px;
+  
+}
+
+.contact-me-button {
+    color: white;
+    border-radius: 10px;
+    background-color: #305b88;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #6384a6;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin:0 0 20px 20px;
+    cursor: pointer;
+}
+
+.copy-right {
+    background-color: #071a35;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+}
+
+.copy-right span {
+    color: #7bc8ff;
+    font-weight: bold;
+}
